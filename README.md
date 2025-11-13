@@ -1,7 +1,5 @@
 # 🤖 Chatbot Hỗ Trợ Sinh Viên – Đại Học Cần Thơ
 
-![Chatbot Giáo Dục](./data/A_2D_digital_graphic_design_in_Vietnamese_promotes.png)
-
 ---
 
 ## 🌟 Giới thiệu
