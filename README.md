@@ -46,16 +46,18 @@ chatbot_giao_duc/
 ├── requirements.txt                # Thư viện cần thiết
 ├── README.md                       # Mô tả dự án
 └── utils/                          # Các hàm hỗ trợ NLP, xử lý dữ liệu, v.v.
+```
 🚀 Cách chạy chatbot (local)
 1️⃣ Cài đặt thư viện
-bash
-Sao chép mã
+
 pip install -r requirements.txt
+
 2️⃣ Chạy chatbot
-bash
-Sao chép mã
+
 python app.py
+
 3️⃣ Bắt đầu trò chuyện
+
 Chatbot chạy trên http://127.0.0.1:5000 (hoặc terminal).
 
 Giao tiếp bằng tiếng Việt tự nhiên.
