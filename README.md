@@ -72,8 +72,11 @@ Họ và Tên	MSSV	Vai trò
 🌐 Tài nguyên & Liên hệ
 Nội dung	Liên kết
 🌍 Website trường	https://www.ctu.edu.vn
+
 🎓 Cổng sinh viên	https://qldt.ctu.edu.vn
+
 🧾 Đăng ký học phần	https://dkmh.ctu.edu.vn
+
 📚 Thông tin tuyển sinh	https://tuyensinh.ctu.edu.vn
 
 ❤️ Ghi chú
