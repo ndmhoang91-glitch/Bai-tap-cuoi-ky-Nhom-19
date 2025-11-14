@@ -4,7 +4,14 @@
 
 ## 🌟 Giới thiệu
 
-Dự án **Chatbot Giáo Dục** được phát triển bởi **Nhóm 19 – Trường Đại học Cần Thơ**, với mục tiêu xây dựng một **trợ lý ảo thân thiện**, giúp sinh viên tra cứu nhanh thông tin học vụ, quy định, và hỗ trợ định hướng học tập.
+Dự án **Chatbot Giáo Dục** được phát triển bởi **Nhóm 19**
+👩‍💻 Thành viên Nhóm 19
+Họ và Tên	MSSV	Vai trò
+Hoàng		Trưởng nhóm – xử lý dữ liệu & tích hợp
+Phú		Tối ưu hội thoại & huấn luyện mô hình
+Anh
+Thạnh
+#Với mục tiêu xây dựng một **trợ lý ảo thân thiện**, giúp sinh viên tra cứu nhanh thông tin học vụ, quy định, và hỗ trợ định hướng học tập.
 
 Chatbot sử dụng **ngôn ngữ tự nhiên (NLP)** và công nghệ **LangChain + Ollama**, cho phép truy xuất thông tin từ cơ sở tri thức tùy chỉnh (`kien_thuc_giao_duc.txt`) và phản hồi chính xác bằng tiếng Việt.
 
@@ -70,7 +77,9 @@ Họ và Tên	MSSV	Vai trò
 ...	...	...
 
 🌐 Tài nguyên & Liên hệ
-Nội dung	Liên kết
+
+#Nội dung	Liên kết
+
 🌍 Website trường	https://www.ctu.edu.vn
 
 🎓 Cổng sinh viên	https://qldt.ctu.edu.vn
