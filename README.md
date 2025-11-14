@@ -16,7 +16,7 @@ Trầm Thanh Phú M5125021 - Tối ưu hội thoại & huấn luyện mô hình
 
 Danh Thế Anh M5125001
 
-Nguyễn Minh Thạnh M5125012
+Nguyễn Minh Thạnh M5125012 - Slide báo cáo
 
 Với mục tiêu xây dựng một **trợ lý ảo thân thiện**, giúp sinh viên tra cứu nhanh thông tin học vụ, quy định, và hỗ trợ định hướng học tập.
 
