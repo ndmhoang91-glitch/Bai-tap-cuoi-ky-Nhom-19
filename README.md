@@ -6,9 +6,9 @@
 
 Dự án **Chatbot Giáo Dục** được phát triển bởi **Nhóm 19**
 
-👩‍💻 Thành viên Nhóm 19
+👩‍💻 Thành viên Nhóm 19:
 
-Họ và Tên	MSSV	Vai trò
+Họ và Tên	MSSV -	Vai trò
 
 Nguyễn Đặng Minh Hoàng M5125003 – Xử lý dữ liệu & tích hợp
 
@@ -70,7 +70,7 @@ python app.py
 
 3️⃣ Bắt đầu trò chuyện
 
-Chatbot chạy trên http://127.0.0.1:5000 (hoặc terminal).
+Chatbot chạy trên terminal.
 
 Giao tiếp bằng tiếng Việt tự nhiên.
 
@@ -96,5 +96,5 @@ Họ và Tên	MSSV	Vai trò
 📚 Thông tin tuyển sinh	https://tuyensinh.ctu.edu.vn
 
 ❤️ Ghi chú
-Dự án được thực hiện nhằm mục đích học tập và nghiên cứu trong khuôn khổ môn học AI & Ứng dụng.
+Dự án được thực hiện nhằm mục đích học tập và nghiên cứu trong khuôn khổ môn học Năng Lực Số Nâng Cao.
 Mọi thông tin học vụ được lấy từ nguồn chính thức của Trường Đại học Cần Thơ (CTU).
