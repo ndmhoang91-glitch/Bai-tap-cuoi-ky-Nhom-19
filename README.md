@@ -14,7 +14,7 @@ Nguyễn Đặng Minh Hoàng M5125003 – Xử lý dữ liệu & tích hợp
 
 Trầm Thanh Phú M5125021 - Tối ưu hội thoại & huấn luyện mô hình
 
-Danh Thế Anh M5125001
+Danh Thế Anh M5125001 - Báo cáo và giải đáp thắc mắc
 
 Nguyễn Minh Thạnh M5125012 - Slide báo cáo
 
