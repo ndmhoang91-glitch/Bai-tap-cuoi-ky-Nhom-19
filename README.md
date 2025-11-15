@@ -14,9 +14,9 @@ Nguyễn Đặng Minh Hoàng M5125003 – Xử lý dữ liệu & tích hợp
 
 Trầm Thanh Phú M5125021 - Tối ưu hội thoại & huấn luyện mô hình
 
-Danh Thế Anh M5125001 - Báo cáo và giải đáp thắc mắc
+Danh Thế Anh M5125001 - Thuyết trình & Dữ liệu
 
-Nguyễn Minh Thạnh M5125012 - Slide báo cáo
+Nguyễn Minh Thạnh M5125012 - Slide báo cáo & Dữ liệu
 
 Với mục tiêu xây dựng một **trợ lý ảo thân thiện**, giúp sinh viên tra cứu nhanh thông tin học vụ, quy định, và hỗ trợ định hướng học tập.
 
