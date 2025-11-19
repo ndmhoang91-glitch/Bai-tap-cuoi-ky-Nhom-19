@@ -29,9 +29,9 @@ Chatbot sử dụng **ngôn ngữ tự nhiên (NLP)** và công nghệ **LangCha
 ✅ **Tra cứu thông tin học vụ**
 - Xem điểm, lịch học, lịch thi, tín chỉ, học phí.
 - Truy cập nhanh:
-  - 📘 Cổng xem điểm: [https://qldt.ctu.edu.vn](https://qldt.ctu.edu.vn)
-  - 🧾 Đăng ký học phần: [https://dkmh.ctu.edu.vn](https://dkmh.ctu.edu.vn)
-  - 📅 Lịch học & thi: [https://thisinh.ctu.edu.vn](https://thisinh.ctu.edu.vn)
+  - 📘 Cổng xem điểm: [https://qldt.ctu.edu.vn](https://htql.ctu.edu.vn)
+  - 🧾 Đăng ký học phần: [https://dkmh.ctu.edu.vn](https://dkmhfe.ctu.edu.vn)
+  - 📅 Lịch học & thi: [https://thisinh.ctu.edu.vn](https://dkmh.ctu.edu.vn)
 
 ✅ **Tư vấn học tập & quy chế**
 - Quy định học vụ, bảo lưu, học bổng, xét tốt nghiệp.
@@ -89,9 +89,9 @@ Họ và Tên	MSSV	Vai trò
 
 🌍 Website trường	https://www.ctu.edu.vn
 
-🎓 Cổng sinh viên	https://qldt.ctu.edu.vn
+🎓 Cổng sinh viên	https://htdl.ctu.edu.vn
 
-🧾 Đăng ký học phần	https://dkmh.ctu.edu.vn
+🧾 Đăng ký học phần	https://dkmhfe.ctu.edu.vn
 
 📚 Thông tin tuyển sinh	https://tuyensinh.ctu.edu.vn
 
